@@ -25,7 +25,3 @@
 ## ⚡ Fun Fact
 I love exploring datasets as much as I love playing with my cat 🐱✨  
 
-
-
-- ⚡ Fun fact: ...
--->
